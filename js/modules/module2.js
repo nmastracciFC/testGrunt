@@ -6,4 +6,4 @@ myApp.module1 = {
 	doSomething() {
 		console.log('called module1 doSomething function');
 	}
-}
+};

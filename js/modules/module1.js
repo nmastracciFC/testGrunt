@@ -4,4 +4,4 @@ var myApp = {
 		console.log('hey! welcome to my app!')
 	}
 
-}
+};

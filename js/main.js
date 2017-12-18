@@ -5,7 +5,7 @@
 	function myFunc() {
 		var theHeading = document.querySelector('h1');
 
-		theHeading.textContent = myApp.mainMessage
+		theHeading.textContent = myApp.mainMessage;
 	}
 
 	myFunc();
