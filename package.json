@@ -1,0 +1,24 @@
+{
+  "name": "test_grunt",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "testing",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testing"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "natalie",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
